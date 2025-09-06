@@ -1,9 +1,9 @@
 ## Hi there 👋
 I’m Chadi Thélin, a software engineer passionate about building impactful solutions in web development and blockchain.
 
-Currently working on my own **SMMA platform** (private repo).
-Recently built a **dynamic reviews carousel** that pulls real Google Maps reviews via the Google Places API — keeping business websites fresh and engaging. Check it out [here](https://github.com/Sharifian1/PlaceID-Carousel-Review).
-- 👯 I’m looking to collaborate on projects in **web applications, blockchain tools, or API integrations**.
+- Currently working on my own **SMMA platform** (private repo).
+- Recently built a **dynamic reviews carousel** that pulls real Google Maps reviews via the Google Places API — keeping business websites fresh and engaging. Check it out [here](https://github.com/Sharifian1/PlaceID-Carousel-Review).
+- I’m looking to collaborate on projects in **web applications, blockchain tools, or API integrations**.
 <!--
 **Sharifian1/sharifian1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
