@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+My name is Chadi Thélin, and i'm a software engineer interested in ... .
+- 🔭 I’m currently working on my own SMMA, that's hosted in a private repository.
+- 🌱 I recently developed a dynamic reviews carousel for business websites that automatically fetches and displays Google Maps reviews. The carousel uses the Google Places API with a unique Place ID to pull in authentic customer feedback, keeping the content fresh and engaging. Check it out [here](https://github.com/Sharifian1/PlaceID-Carousel-Review).
+- 👯 I’m looking to collaborate on ...
 <!--
 **Sharifian1/sharifian1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
