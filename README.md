@@ -1,7 +1,7 @@
 ## Hi there 👋
 I’m Chadi Thélin, a software engineer passionate about building impactful solutions in web development and blockchain.
 
-- Currently working on my own **SMMA platform** (private repo).
+- Currently working on my own **SMMA platform** called KeyThoughts, hosted in an organization account. Check it out [here](https://github.com/KeyThoughts/agency).
 - Recently built a **dynamic reviews carousel** that pulls real Google Maps reviews via the Google Places API — keeping business websites fresh and engaging. Check it out [here](https://github.com/Sharifian1/PlaceID-Carousel-Review).
 - I’m looking to collaborate on projects in **web applications, blockchain tools, or API integrations**.
 <!--
