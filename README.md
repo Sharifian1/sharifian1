@@ -2,6 +2,7 @@
 I’m Chadi Thélin, a software engineer passionate about building impactful solutions in web development and blockchain.
 
 - Currently working on my own **SMMA platform** called KeyThoughts, hosted in an organization account. Check it out [here](https://github.com/KeyThoughts/agency).
+  - Latest update: Implemented a Notion API integration that syncs data from Notion databases to remote databases using Prisma. View the code [here](https://github.com/KeyThoughts/agency/blob/main/src/app/api/notion/webhook/route.ts).
 - Recently built a **dynamic reviews carousel** that pulls real Google Maps reviews via the Google Places API — keeping business websites fresh and engaging. Check it out [here](https://github.com/Sharifian1/PlaceID-Carousel-Review).
 - I’m looking to collaborate on projects in **web applications, blockchain tools, or API integrations**.
 <!--
